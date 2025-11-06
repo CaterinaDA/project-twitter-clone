@@ -50,7 +50,7 @@ project-twitter-clone/
 ---
 
 ## Demo
-GitHub Pages: 
+GitHub Pages: https://caterinada.github.io/project-twitter-clone/
 
 ---
 
